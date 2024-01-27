@@ -204,10 +204,10 @@ export default function CommentSection({ postId }) {
                 color='failure'
                 onClick={() => handleDelete(commentToDelete)}
               >
-                Yes, I'm sure
+                Yes, I'm sure..
               </Button>
               <Button color='gray' onClick={() => setShowModal(false)}>
-                No, cancel
+                No, cancel..
               </Button>
             </div>
           </div>

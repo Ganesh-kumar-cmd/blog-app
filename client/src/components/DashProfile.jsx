@@ -302,4 +302,4 @@ export default function DashProfile() {
       </Modal>
     </div>
   );
-}
+};

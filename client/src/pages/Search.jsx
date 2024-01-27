@@ -134,6 +134,14 @@ export default function Search() {
               <option value='reactjs'>React.js</option>
               <option value='nextjs'>Next.js</option>
               <option value='javascript'>JavaScript</option>
+              <option value='business'>Business</option>
+              <option value='food'> Food</option>
+              <option value='travel'> Travel</option>
+              <option value='fitness'> Fitness</option>
+              <option value='life'> Life Style</option>
+              <option value='music'> Musics</option>
+              <option value='Game'> Games</option>
+              <option value='movie'> Movies</option>
             </Select>
           </div>
           <Button type='submit' outline gradientDuoTone='purpleToPink'>
@@ -158,7 +166,7 @@ export default function Search() {
               onClick={handleShowMore}
               className='text-teal-500 text-lg hover:underline p-7 w-full'
             >
-              Show More
+              Show More...
             </button>
           )}
         </div>

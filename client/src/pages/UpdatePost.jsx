@@ -133,6 +133,14 @@ export default function UpdatePost() {
             <option value='javascript'>JavaScript</option>
             <option value='reactjs'>React.js</option>
             <option value='nextjs'>Next.js</option>
+            <option value='business'>Business</option>
+            <option value='food'> Food</option>
+            <option value='travel'> Travel</option>
+            <option value='fitness'> Fitness</option>
+            <option value='life'> Life Style</option>
+            <option value='music'> Musics</option>
+            <option value='Game'> Games</option>
+            <option value='movie'> Movies</option>
           </Select>
         </div>
         <div className='flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3'>
